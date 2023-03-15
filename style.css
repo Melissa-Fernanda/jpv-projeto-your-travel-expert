@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+      box-sizing: border-box;
+  }
+   body{
+      text-align: center; 
+      padding-top: 300px;
+      background-image: url(https://i.ibb.co/p1JzG1r/background-image.png);
+      background-repeat: no-repeat;
+      background-size: cover;
+      height: 100vh;
+      background-position: center;
+   }
+  
+  h1{
+    color: #151718;
+    font-family: 'Cinzel';
+    font-size: 64px;
+    line-height: 86px;
+  }
+  
+  h1 sapan{
+    color:#DB2777;
+  }
+  
+  p{
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 20px;
+    line-height: 24px;
+    color: rgba(44, 46, 47, 0.9);
+    margin-bottom: 75px;
+  }
+  
+  a{
+    padding: 16px 32px;
+    color: #151718;
+    font-family: 'Cinzel';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration-line: underline;
+    }
+    
+    a:hover{
+      text-decoration: none;
+      color: #ffffff;
+      background: #DB2777;
+      border-radius: 80px;
+    }
+  
+    .btn-primary{
+      text-decoration: none;
+      color: #ffffff;
+      background: #DB2777;
+      border-radius: 80px;
+  }
